@@ -11,7 +11,7 @@
 <div style="display: flex">
   <a href="https://github.com/ronaldop19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldop19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldop19&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" max-width-"385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldop19&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
    
   <div style="display: inline_block"><br>
@@ -28,3 +28,7 @@
     
   <a href="https://instagram.com/itf.amorim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronaldo-amorim-861655234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ ##
+    
+     <img src="https://komarev.com/ghpvc/?username=ronaldop19&color=green" alt="ronaldop19" /> 
