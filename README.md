@@ -30,5 +30,4 @@
   <a href="https://www.linkedin.com/in/ronaldo-amorim-861655234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ##
-    
-     <img src="https://komarev.com/ghpvc/?username=ronaldop19&color=green" alt="ronaldop19" /> 
+  
