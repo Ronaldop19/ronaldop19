@@ -2,7 +2,7 @@
 
 - 🔭 Loading ...
 - 📅 Since 19/10/1998 🇧🇷
-- 🌱 Systems analysis and development 2021.1
+- 🌱 Systems analysis and development
 - 📖 HTML5, CSS3, JavaScript, Java, Python
 - 📫 How to reach me: ronaldop.amorim@hotmail.com
 - 😄 Pronouns: Ele/Dele
