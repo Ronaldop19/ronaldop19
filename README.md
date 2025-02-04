@@ -3,7 +3,7 @@
 - 🔭 Loading ...
 - 📅 Since 19/10/1998 🇧🇷
 - 🌱 Systems analysis and development
-- 📖 HTML5, CSS3, JavaScript, Java, Python
+- 📖 Back-end
 - 📫 How to reach me: ronaldop.amorim@hotmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Taekwon-do fighter since 2003
