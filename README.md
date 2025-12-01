@@ -16,15 +16,11 @@ Automation tasks using Python and Selenium
 
 I’m always improving my code quality and system architecture through best practices like SOLID principles, clean code, and modular design.
 
-<div style="display: flex">
-  <a href="https://github.com/ronaldop19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldop19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldop19&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Ronaldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ronaldo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Ronaldo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ronaldo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Ronaldo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">
     
